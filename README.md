@@ -7,10 +7,10 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/vanshchouksey21">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hi%2C+I'm+Vansh+Chouksey;Frontend+Developer;React+%7C+Node.js+%7C+MongoDB;C%2B%2B+Programmer+%7C+DSA+Lover;Open+to+work+and+collaborate+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Hi%2C+I'm+Vansh+Chouksey;Frontend+Developer;React+%7C+Node.js+%7C+MongoDB;C%2B%2B+Programmer+%7C+DSA+Lover;Open+to+work+%26+collaborate+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
-<br /> <br /> <br />
+
 ---
 
 ### 🧑‍💻 About Me
@@ -48,20 +48,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshchouksey21&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshchouksey21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshchouksey21&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🏆 Badges
 
 <p align="center">
@@ -73,4 +59,18 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vanshchouksey21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vanshchouksey21&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshchouksey21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshchouksey21&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
