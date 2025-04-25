@@ -5,6 +5,7 @@
   <h3 align="center">
     A passionate Front-End Developer | C++ Programmer | DSA Enthusiast
   </h3>
+</br>
   
   <!-- Typing animation -->
   <p align="center">
