@@ -3,14 +3,14 @@
 <h3 align="center">
   🚀 Front-End Developer | 👨‍💻 C++ Programmer | 📊 DSA Enthusiast
 </h3>
-<br /> <br /> <br />
+
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/vanshchouksey21">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hi%2C+I'm+Vansh+Chouksey;Frontend+Developer;React+%7C+Node.js+%7C+MongoDB;C%2B%2B+Programmer+%7C+DSA+Lover;Open+to+work+and+collaborate+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
-
+<br /> <br /> <br />
 ---
 
 ### 🧑‍💻 About Me
