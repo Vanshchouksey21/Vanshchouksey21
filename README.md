@@ -3,7 +3,7 @@
 <h3 align="center">
   🚀 Front-End Developer | 👨‍💻 C++ Programmer | 📊 DSA Enthusiast
 </h3>
-
+<br /> <br /> <br />
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/vanshchouksey21">
